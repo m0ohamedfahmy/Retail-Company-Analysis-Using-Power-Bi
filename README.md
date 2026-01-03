@@ -14,7 +14,7 @@ The project focuses on four key analytical areas:
 This project aims to enhance decision-making capabilities, improve performance monitoring, optimize sales and pricing strategies, and support long-term business planning through reliable and insightful analytics.
 
 
-##ئThe project consists of **four main dashboards**:
+## The project consists of **four main dashboards**:
 1. Overview Dashboard
 2. Sales Performance Dashboard
 3. Product Performance Dashboard
@@ -24,7 +24,9 @@ This project aims to enhance decision-making capabilities, improve performance m
 
 ## 🧩 Dashboards Breakdown
 
-### ![1️⃣ Overview Dashboard](Dashboard/Overview Dashboard.png)
+### 1️⃣ Overview Dashboard 
+![OverviewDashboard](Dashboard/OverviewDashboard.png).
+
 Key Performance Indicators (KPIs):
 - Total Orders: 22k
 - Total Sales: 50.38M
@@ -85,7 +87,9 @@ Sales are evenly distributed among these products, which reduces dependency on a
 
 ---
 
-### ![2️⃣ Product Performance Dashboard](Dashboard/Product Performance Dashboard.png)
+### 2️⃣ Product Performance Dashboard
+![2️⃣ Product Performance Dashboard](Dashboard/ProductDashboard.png)
+
 📌 Insights and Recommendation
 1- High-Performing Product with Discount Issues(Desk Model 47 – Top Product in 2025) 
  **Problem**
@@ -153,7 +157,9 @@ This indicates that discounts were poorly optimized and harmed both sales and pr
 
 ---
 
-### ![3️⃣ Customer Performance Dashboard](Dashboard/Customer Performance Dashboard.png)
+### 3️⃣ Customer Performance Dashboard
+![3️⃣ Customer Performance Dashboard](Dashboard/CustomerDashboard.png)
+
 KPI:
 - Active, New, Lost, Returning Customers
 - Customer Lifetime Value (CLV)
@@ -162,39 +168,43 @@ KPI:
 
 📌 Insights and Recommendation
 1- High Customer Acquisition but Low Retention
+
 **Problem**
-    - The company is successful at acquiring new customers, but a significant portion of them is lost quickly after the first purchase.
-    - The company is successful at acquiring new customers, but a significant portion of them is lost quickly after the first purchase. 
-        * The product has a long purchase cycle and is not consumable, as indicated by a Purchase Frequency of 1.5.
-        * Customers show low loyalty, purchasing mainly during discount periods.
-        * Discounts do not increase purchase frequency, which proves that customers are price-driven rather than brand-loyal. 
-      This results in weak customer lifetime value and high churn
-  **Solution / Recommendation**
-      - Shift focus from repeat purchases to customer referral acquisition.
-      - Turn existing customers into brand advocates by:
-        * Following up after purchase
-        * Solving post-purchase issues quickly
-        * Offering personalized support and selective incentives
-        * Invest in post-purchase engagement rather than frequency-based discount campaigns.
+   - The company is successful at acquiring new customers, but a significant portion of them is lost quickly after the first purchase.
+   - The company is successful at acquiring new customers, but a significant portion of them is lost quickly after the first purchase. 
+     * The product has a long purchase cycle and is not consumable, as indicated by a Purchase Frequency of 1.5.
+     * Customers show low loyalty, purchasing mainly during discount periods.
+     * Discounts do not increase purchase frequency, which proves that customers are price-driven rather than brand-loyal. 
+   This results in weak customer lifetime value and high churn
+ 
+**Solution / Recommendation**
+  - Shift focus from repeat purchases to customer referral acquisition.
+  - Turn existing customers into brand advocates by:
+    * Following up after purchase
+    * Solving post-purchase issues quickly
+    * Offering personalized support and selective incentives
+    * Invest in post-purchase engagement rather than frequency-based discount campaigns.
 
  2- Increasing Average Order Value with Decreasing Purchase Frequency
   **Problem** 
-     - The Average Order Value (AOV) increased, while Purchase Frequency decreased.
-     - This indicates that:
-       * Customers are buying less often
-       * But spending more per transaction
-      While revenue per order is growing, long-term engagement is weakening.
-  **Solution / Recommendation**
-    - Focus on maximizing basket size per transaction.
-    - Encourage customers to buy more items in a single order through:
-      * Product bundles
-      * Cross-selling and up-selling strategies
-      * Volume-based offers (e.g., buy more, save more)
-      * Accept the long repurchase cycle and optimize revenue per purchase instead of per customer visit.
+   - The Average Order Value (AOV) increased, while Purchase Frequency decreased.
+   - This indicates that:
+     * Customers are buying less often
+     * But spending more per transaction
+     While revenue per order is growing, long-term engagement is weakening.
+  
+**Solution / Recommendation**
+ - Focus on maximizing basket size per transaction.
+ - Encourage customers to buy more items in a single order through:
+   * Product bundles
+   * Cross-selling and up-selling strategies
+   * Volume-based offers (e.g., buy more, save more)
+   * Accept the long repurchase cycle and optimize revenue per purchase instead of per customer visit.
 
 ---
 
-### ![4️⃣ Sales Performance Dashboard](Dashboard/Sales Performance Dashboard.png)
+### 4️⃣ Sales Performance Dashboard
+![4️⃣ Sales Performance Dashboard](Dashboard/SalesDashboard.png)
 📌 Insights 
 1- Sales performance in 2025 shows negative YoY growth in most months compared to the previous year.
  - Several months recorded sales declines ranging from -4% to -10%.

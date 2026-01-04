@@ -25,7 +25,7 @@ This project aims to enhance decision-making capabilities, improve performance m
 ## 🧩 Dashboards Breakdown
 
 ### 1️⃣ Overview Dashboard 
-![OverviewDashboard](Dashboard/OverviewDashboard.png).
+![OverviewDashboard](Dashboard/OverviewDashboard1.png).
 
 Key Performance Indicators (KPIs):
 - Total Orders: 22k
@@ -94,7 +94,7 @@ Sales are evenly distributed among these products, which reduces dependency on a
 ---
 
 ### 2️⃣ Product Performance Dashboard
-![2️⃣ Product Performance Dashboard](Dashboard/ProductDashboard.png)
+![2️⃣ Product Performance Dashboard](Dashboard/ProductDashboard1.png)
 
 📌 Insights and Recommendation
 1- High-Performing Product with Discount Issues(Desk Model 47 – Top Product in 2025) 
@@ -186,7 +186,7 @@ Sales are evenly distributed among these products, which reduces dependency on a
 ---
 
 ### 3️⃣ Customer Performance Dashboard
-![3️⃣ Customer Performance Dashboard](Dashboard/CustomerDashboard.png)
+![3️⃣ Customer Performance Dashboard](Dashboard/CustomerDashboard1.png)
 
 KPI:
 - Active, New, Lost, Returning Customers
@@ -237,7 +237,7 @@ KPI:
 ---
 
 ### 4️⃣ Sales Performance Dashboard
-![4️⃣ Sales Performance Dashboard](Dashboard/SalesDashboard.png)
+![4️⃣ Sales Performance Dashboard](Dashboard/SalesDashboard1.png)
 
 📌 Insights 
 
